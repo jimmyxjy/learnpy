@@ -12,7 +12,7 @@ args = parser.parse_args()
 def trim(s):
 	if s[:1] == ' ':
 		s = trim(s[1:])
-	if  s[:-1] == ' ':
+	if s[:-1] == ' ':
 		s = trim(s[:-1])
 	return s
 
