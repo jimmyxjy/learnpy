@@ -1,2 +1,2 @@
 # learnpy
-## learn & write & think more
+## learn & code & think more
